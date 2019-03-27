@@ -145,5 +145,6 @@ namespace QLKho
         }
 
         // thu comit phat
+        // thu
     }
 }
