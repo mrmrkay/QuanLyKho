@@ -143,5 +143,7 @@ namespace QLKho
                 listViewGood.Items.Add(item);
             }
         }
+
+        // thu comit phat
     }
 }
